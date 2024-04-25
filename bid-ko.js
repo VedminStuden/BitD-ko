@@ -4,7 +4,7 @@ Hooks.once('init', () => {
 		  
 	  console.log("BABELE LOADED !!!");
 	  Babele.get().register({
-		  module: 'bid-ko',
+		  module: 'bitd-ko',
 		  lang: 'ko',
 		  dir: 'compendiums'
 	  });
