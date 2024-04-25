@@ -8,7 +8,7 @@
   "compatibleCoreVersion": "0.8.9",
   "url": "https://gitlab.com/Cyberdwarf1664/bid-fr/",
   "download": "https://gitlab.com/Cyberdwarf1664/bid-fr/-/archive/main/bid-fr-main.zip",
-  "manifest": "https://gitlab.com/Cyberdwarf1664/bid-/-/raw/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/VedminStuden/BitD-ko/main/module.json",
   
   "languages" : [
        {
@@ -21,7 +21,7 @@
   "dependencies" : [
 {
   "name": "babele",
-  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+  "manifest": "https://raw.githubusercontent.com/VedminStuden/BitD-ko/main/module.json"
 }
 ],
 "esmodules": [
