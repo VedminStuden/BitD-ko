@@ -1,0 +1,31 @@
+{
+  "name": "bid-fr",
+  "title": "Blades in the Dark - Translations (French)",
+  "description": "Traduction du sysème Blades in the Dark de megastruktur : Système et Compendiums",
+  "version": "0.1.6",
+  "author": "Cyberdwarf",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.8.9",
+  "url": "https://gitlab.com/Cyberdwarf1664/bid-fr/",
+  "download": "https://gitlab.com/Cyberdwarf1664/bid-fr/-/archive/main/bid-fr-main.zip",
+  "manifest": "https://gitlab.com/Cyberdwarf1664/bid-fr/-/raw/main/module.json",
+  
+  "languages" : [
+       {
+          "lang" : "ko",
+          "name" : "korean",
+          "path" : "ko.json"
+       }
+              ],
+  
+  "dependencies" : [
+{
+  "name": "babele",
+  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+}
+],
+"esmodules": [
+  "./bid-fr.js"
+]
+ 
+}
